@@ -6,7 +6,7 @@
     left: -720px;
     gap: 0px;
     opacity: 0px;
-    
+    display: flex;
 }
 .image-container{
     width: 450px;
@@ -54,4 +54,50 @@ font-family: 'Arial Narrow', Arial, sans-serif;
 }
 .color-green{
     color: green;
+}
+.red-logo-image{
+    width: 98px;
+height: 98px;
+position: relative;
+top: 20px;
+left: -120px;
+gap: 0px;
+opacity: 0px;
+
+}
+.signup-text{
+font-size: 25px;
+font-weight: 600;
+line-height: 45px;
+text-align: left;
+color:#261E3B;
+position: relative;
+top:20px;
+}
+.login-span{
+color: #CDCDCD;
+font-size: 25px;
+
+}
+.signup-title-cont{
+height: 45px;
+position: relative;
+top: 20px;
+left: 200px;
+gap: 50px;
+opacity: 0px;
+display: flex;
+}
+.dis-flex{
+    display: flex;
+}
+.fields-css{
+    width: 320px;
+height: 32px;
+top: 245px;
+left: 631px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
 }
